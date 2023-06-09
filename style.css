@@ -1,0 +1,45 @@
+
+body{
+background: scroll rgb(0, 136, 255);
+color: rgb(3, 3, 3);
+padding: 20px 0 10px 0;
+text-align: center;
+}
+h2{
+    font-size: 50px;
+}
+
+
+
+form {
+    margin: 0 auto;
+    max-width: 900px;
+}
+input, textarea, button {
+    border: none;
+    width: 55%;
+    padding: 15px 10px;
+    margin: 1px 0;
+    font-size: 1.2em;
+    font-family: 'Advent Pro' , sans-serif;
+    border-radius: 8px;
+
+}
+textarea {
+    height: 120px;
+}
+button {
+    font-size: 1.5em;
+    background-color: blanchedalmond;
+}
+button:hover {
+    background-color: brown;
+    color: antiquewhite;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+.p {
+    font-size: ;
+}
+
+}
